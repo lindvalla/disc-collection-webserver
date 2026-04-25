@@ -7,7 +7,8 @@ app = Flask(__name__)
 def load_data(filepath="data.txt"):
     data = []
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
+#        with open(filepath, 'r', encoding='utf-8') as f:
+        with open(filepath, 'r', encoding='iso-8859-1') as f:
             for line in f:
                 if line.strip():  # Only process non-empty lines
                     data.append(line.strip().split(';'))

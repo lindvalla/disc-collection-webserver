@@ -1,7 +1,927 @@
-Apple;Fruit;Red;Sweet
-Banana;Fruit;Yellow;Soft
-Carrot;Vegetable;Orange;Crunchy
-Broccoli;Vegetable;Green;Bitter
-Mango;Fruit;Yellow;Juicy
-Spinach;Vegetable;Green;Earthy
-
+39;True;False;False;Ghost Dog: The Way of the Samurai;
+120;True;False;False;M*A*S*H: Season One;
+127;True;False;False;M*A*S*H: Season Two;
+160;True;False;False;M*A*S*H: Season Three;
+186;True;False;False;M*A*S*H: Season Four;
+226;True;False;False;M*A*S*H: Season Five;
+237;True;False;False;M*A*S*H: Season Six;
+271;True;False;False;M*A*S*H: Season Seven;
+314;True;False;False;M*A*S*H: Season Eight;
+364;True;False;False;M*A*S*H: Season Nine: Collector's Edition;
+404;True;False;False;M*A*S*H: Season Ten;
+893;True;False;False;M*A*S*H: Season Eleven;
+28;True;False;False;The Mummy;
+25;True;False;False;Notting Hill;
+16;True;False;False;The Thomas Crown Affair;
+70;True;False;False;Spaceballs;
+14;True;False;False;The Game;
+29;True;False;False;Lock, Stock and Two Smoking Barrels;
+102;True;False;False;Cast Away;
+133;True;False;False;A Beautiful Mind;
+149;True;False;False;Shrek;
+147;True;False;False;Deep Impact;
+146;True;False;False;Fredsmäklaren;The Peacemaker
+1;True;False;False;The Matrix;
+32;True;False;False;Entrapment;
+245;True;False;False;Trainspotting;
+174;True;False;False;The Bourne Identity;
+169;True;False;False;Om en pojke;About a Boy
+131;True;False;False;Tillbaka till framtiden Trilogi;
+162;True;False;False;The Scorpion King;
+164;True;False;False;40 Days and 40 Nights;
+354;True;False;False;The Guru;
+258;True;False;False;De 12 Apornas Armé;Twelve Monkeys
+216;True;False;False;Seven Samurai;Shichinin no samurai
+215;True;False;False;High and Low;Tengoku to jigoku
+217;True;False;False;Yojimbo;
+213;True;False;False;The Hidden Fortress;Kakushi toride no san akunin
+212;True;False;False;Sanjuro;Tsubaki Sanjûrô
+214;True;False;False;Red Beard;Akahige
+330;True;False;False;Red Dwarf I;
+333;True;False;False;Red Dwarf II;
+331;True;False;False;Red Dwarf III;
+335;True;False;False;Red Dwarf IV;
+332;True;False;False;Red Dwarf V;
+334;True;False;False;Red Dwarf VI;
+358;True;False;False;The Three Musketeers;
+251;True;False;False;The Color of Money;
+234;True;False;False;Pulp Fiction;
+185;True;False;False;TRON;
+233;True;False;False;Shogun Assassin;
+917;False;True;False;Riddick;
+246;True;False;False;Bram Stoker's Dracula;
+264;True;False;False;Brazil;
+891;True;False;False;Down Periscope;
+592;False;True;False;Firefly: The Complete Series;
+920;False;True;False;SpaceBalls;
+885;False;True;True;Deadpool 2;
+178;True;False;False;The Usual Suspects;
+232;True;False;False;The Great Escape;
+368;True;False;False;Ronin;
+340;True;False;False;Get Shorty;
+205;True;False;False;2 Fast 2 Furious;
+292;True;False;False;Hulk;
+312;True;False;False;Monty Python's Meningen med livet;Monty Python's The Meaning of Life
+209;True;False;False;Terminator 3 - Rise of The Machines;Terminator 3: Rise of the Machines
+221;True;False;False;American Pie: The Wedding;
+242;True;False;False;Das Boot;
+456;True;False;False;Hämnarens Resa;Boksuneun naui geot
+319;True;False;False;Taxi Driver;
+276;True;False;False;S.W.A.T.;
+321;True;False;False;Scarface;
+239;True;False;False;Love Actually;
+278;True;False;False;Big Fish;
+262;True;False;False;Van Helsing;
+268;True;False;False;Spider-Man 2;
+277;True;False;False;The Chronicles of Riddick;
+288;True;False;False;The Bourne Supremacy;
+286;True;False;False;Resident Evil: Apocalypse;
+301;True;False;False;Wimbledon;
+377;True;False;False;Steamboy;
+359;True;False;False;Kung Fu Hustle;Gong fu
+329;True;False;False;Closer;
+371;True;False;False;Casino;
+372;True;False;False;Layer Cake;
+345;True;False;False;Hitch;
+344;True;False;False;Tolken;The Interpreter
+370;True;False;False;Styrka 10 från Navarone;Force 10 from Navarone
+388;True;False;False;Doom;
+450;True;False;False;Serenity;
+403;True;False;False;Jarhead;
+389;True;False;False;King Kong;
+432;True;False;False;Inside Man;
+457;True;False;False;Smokin' Aces;
+461;True;False;False;Hot Fuzz;
+474;True;False;False;The Bourne Ultimatum;
+481;True;False;False;Southland Tales;
+496;False;True;False;Wanted;
+494;True;False;False;Mumien: Drakkejsarens Grav;Mummy: Tomb of the Dragon Emperor
+506;True;False;False;Hellboy II: The Golden Army;
+909;False;True;False;The Chronicles of Riddick;
+510;True;False;False;The Andromeda Strain;
+520;True;False;False;Duplicity;
+525;False;True;False;Inglourious Basterds;
+540;False;True;False;Robin Hood;
+572;True;False;False;The Dilemma;
+607;False;True;False;The Change-Up;
+598;False;True;False;Snow White and the Huntsman;
+713;False;True;False;The Bourne Legacy;
+622;False;True;False;Oblivion;
+671;True;True;False;R.I.P.D - Rest In Peace Department;
+913;False;True;False;Pitch Black;
+672;False;True;False;The World's End;
+639;False;True;False;The Wolf of Wall Street;
+201;True;False;False;Catch Me If You Can;
+256;True;False;False;Paycheck;
+282;True;False;False;Shrek 2;
+297;True;False;False;The Terminal;
+325;True;False;False;Lemony Snickets Berättelse om Syskonen Baudelaires Olycksaliga Li;Lemony Snicket's A Series of Unfortunate Events
+430;True;False;False;Final Fantasy VII: Advent Children;
+433;True;False;False;Underworld: Evolution;
+436;True;False;False;Ultraviolet;
+440;True;False;False;Da Vinci Koden;The Da Vinci Code
+454;True;False;False;Pakten;The Covenant
+478;True;False;False;Jakten På Lycka;The Pursuit of Happyness
+462;True;False;False;Ghost Rider;
+468;True;False;False;Spider-Man 3;
+477;True;False;False;Resident Evil: Extinction;
+493;True;False;False;Hancock;
+511;False;True;False;The Spirit;
+515;True;False;False;The International;
+513;True;False;False;Underworld: Rise of the Lycans;
+901;False;True;False;Underworld - Rise of the Lycans;
+521;False;True;False;Änglar och Demoner;Angels & Demons
+524;True;False;False;Crank 2: High Voltage;
+533;False;True;False;2012;
+559;True;False;False;Defendor;
+569;False;True;False;Legion;
+542;False;True;False;Salt;
+545;True;False;False;Resident Evil: Afterlife;
+549;False;True;False;The Green Hornet;
+561;False;True;False;Priest;
+905;False;True;False;Underworld Awakening;
+599;False;True;False;MIB³: Men in Black 3;Men In Black 3
+588;True;False;False;Underworld - Awakening;
+154;False;True;False;Total Recall;
+612;False;True;False;Resident Evil: Retribution;
+618;False;True;False;Django Unchained;
+627;False;True;False;After Earth;
+633;False;True;False;Elysium;
+665;False;True;False;Predestination;
+674;True;True;False;The Interview;
+686;False;True;False;Chappie;
+692;False;True;False;Merchants of Doubt;
+710;False;True;False;The 5th Wave;
+723;True;True;False;Money Monster;
+522;True;False;False;Harry Potter och halvblodsprinsen;Harry Potter and the half-blood prince
+537;False;True;False;Sherlock Holmes;
+911;False;True;False;The Island;
+583;True;False;False;Clash of the Titans;
+541;True;True;False;Inception;
+859;False;True;False;Spies Like Us;
+897;False;True;False;Ocean's 11 12 13;
+564;False;True;False;Harry Potter and the Deathly Hallows: Part 2;
+563;False;True;False;Harry Potter and the Deathly Hallows: Part 1;
+562;True;False;False;Green Lantern;
+603;True;False;False;The Greatest Movie Ever Sold;
+605;True;False;False;Crazy, Stupid, Love.;
+578;False;True;False;Contagion;
+587;False;True;False;Sherlock Holmes: A Game Of Shadows;
+914;False;True;False;Seven;
+658;True;False;False;Jack the Giant Slayer;
+662;False;True;False;The Great Gatsby 3D;The Great Gatsby
+634;False;True;False;Pacific Rim;
+638;False;True;False;Gravity;
+678;False;True;False;Jupiter Ascending;
+648;False;True;False;Edge of Tomorrow;
+656;False;True;False;The Sopranos: The Complete Series;
+667;False;True;False;Interstellar;
+695;False;True;False;The Man From U.N.C.L.E.;
+693;False;True;False;Mad Max: Fury Road;
+763;False;True;False;Mad Max Anthology;
+714;True;True;False;The Mentalist - The Complete Series;
+718;False;True;False;Suicide Squad;
+900;False;True;False;The Legend of Tarzan;
+677;False;True;False;47 Ronin;
+836;False;True;False;A Million Ways to Die in the West;
+794;False;True;False;Battlestar Galactica: The Complete Series;
+663;False;True;False;Lucy;
+664;False;True;False;Dracula Untold;
+684;False;True;False;Blackhat;
+680;False;True;False;Fifty Shades of Grey;
+687;False;True;False;EX_MACHINA;Ex Machina
+707;False;True;False;Mr. Robot Season 1;
+722;False;True;False;The Huntsman: Winter's War;
+889;False;True;True;Jason Bourne;
+717;False;True;False;Jason Bourne;
+884;False;True;True;Oblivion;
+888;False;True;True;The Bourne Identity;
+887;False;True;True;The Bourne Legacy;
+886;False;True;True;The Bourne Supremacy;
+890;False;True;True;The Bourne Ultimatum;
+785;False;True;False;Fifty Shades Darker;
+744;False;True;False;The Great Wall;
+754;False;True;False;Split;
+802;False;True;False;Fast & Furious: 8-Movie Collection;
+751;False;True;False;The Mummy;
+863;False;True;False;Kung Fu Panda 3;
+864;True;True;True;Kung Fu Panda 2;
+788;False;True;False;Fifty Shades Freed;
+777;False;True;False;The Endless;
+790;False;True;False;Mortal Engines;
+806;False;True;False;Fast & Furious Presents: Hobbs & Shaw;
+804;False;True;False;The Hummingbird Project;
+811;False;True;False;Last Christmas;
+851;True;False;False;T4xi;
+243;True;False;False;Nosferatu: The Vampyre;Nosferatu: Phantom der Nacht
+921;False;True;False;A Fish Called Wanda;
+837;False;True;False;Fleabag: Series One & Two;
+673;False;True;False;Robocop;
+850;False;True;False;Casino Royale;
+659;True;False;False;Don Jon;
+642;False;True;False;American Hustle;
+650;True;False;False;Snowpiercer;
+668;False;True;False;Automata;
+762;False;True;False;Kill Switch;
+748;False;True;False;The Circle;
+752;False;True;False;Atomic Blonde;
+753;False;True;False;Valerian and the City of a Thousand Planets;
+756;False;True;False;The Hitman's Bodyguard;
+787;False;True;False;Suburbicon;
+776;False;True;False;Terminal;
+813;False;True;False;10 Minutes Gone;
+815;False;True;False;Guns Akimbo;
+838;False;True;False;Abigail and the Forbidden City;
+844;False;True;False;Hitman's Wife's Bodyguard;
+867;False;True;False;Everything Everywhere All at Once;
+705;False;True;False;The Hateful Eight;
+568;False;True;False;Agnosia;
+155;True;False;False;Gräsklippar Mannen;The Lawnmower Man
+218;True;False;False;Dune;
+98;True;False;False;Eldfödd;Firestarter
+22;True;False;False;Arlington Road;
+33;True;False;False;Will Hunting;Good Will Hunting
+2;True;False;False;The Talented Mr. Ripley;
+8;True;False;False;Taxi;
+20;True;False;False;Rounders;
+19;True;False;False;Storm of the Century;
+13;True;False;False;Ciderhusreglerna;The Cider House Rules
+125;True;False;False;Gun Shy;
+80;True;False;False;Chocolat;
+42;True;False;False;Taxi 2;
+67;True;False;False;Traffic;
+153;True;False;False;Rat Race - Sk(r)attjakten;Rat Race
+114;True;False;False;Dracula 2001;
+395;True;False;False;Blinkande Lyktor;
+99;True;False;False;Edges of the Lord;
+151;True;False;False;Monster's Ball;
+263;True;False;False;The Butterfly Effect;
+176;True;False;False;The Ring;Ringu
+309;True;False;False;Monster;
+315;True;False;False;Children of Dune;
+378;True;False;False;Crash;
+283;True;False;False;Sky Captain and the World of Tomorrow;
+438;True;False;False;Lucky Number Slevin;
+361;True;False;False;The Woodsman;
+451;True;False;False;Oldboy;Oldeuboi
+385;True;False;False;Vlad;
+369;True;False;False;The Ninth Gate;
+387;True;False;False;Lord of War;
+689;False;True;False;The Giver;
+653;False;True;False;The Lunchbox;Dabba
+342;True;False;False;Bound;
+306;True;False;False;Time Bandits;
+814;False;True;False;Colossal;
+758;False;True;False;What Happened To Monday;
+822;False;True;False;The Gentlemen;
+826;True;True;True;Final Target;
+101;True;False;False;Blade;
+124;True;False;False;Rush Hour;
+247;True;False;False;Jackie Brown;
+219;True;False;False;Ordinary Decent Criminal;
+338;True;False;False;Donnie Brasco;
+244;True;False;False;Underworld;
+336;True;False;False;From Dusk till Dawn;
+337;True;False;False;From Dusk Till Dawn 2: Texas Blood Money;
+355;True;False;False;Welcome to Collinwood (Konnankoukkuja);Welcome to Collinwood
+500;False;True;False;Curse of the Golden Flower;Man cheng jin dai huang jin jia
+614;False;True;False;Twilight;
+904;False;True;False;Kill Bill: Vol. 2;
+615;False;True;False;The Twilight Saga: New Moon;
+903;False;True;False;Kill Bill: Vol. 1;
+536;False;True;False;Daybreakers;
+910;False;True;False;Underworld;
+546;False;True;False;Lock, Stock and Two Smoking Barrels;
+548;True;True;False;Skyline;
+704;False;True;False;The Last Witch Hunter;
+919;False;False;True;Ballerina;
+922;False;True;False;Mars Attacks;
+373;True;False;False;Digital Video Essentials (PAL);
+375;True;False;False;Digital Video Essentials;
+18;True;False;False;American Beauty;
+36;True;False;False;Cher: Live in Concert;
+376;True;False;False;It's All Gone Pete Tong;
+100;True;False;False;Vanilla Sky;
+137;True;False;False;Mean Machine;
+157;True;False;False;The Sum of All Fears;
+553;False;True;False;Casino Jack;
+571;False;True;False;Exam;
+670;True;False;False;Hirokin;
+731;True;False;False;The Fall;
+652;False;True;False;Coherence;
+732;True;False;False;The Fall - Sesong 2;
+742;True;False;False;The Fall: Season 3;
+570;False;True;False;Toast;
+591;True;False;False;Attack The Block;
+610;False;True;False;Love Is Not A Crime;Loosies
+630;True;False;False;Le Chef;Comme un chef
+907;True;False;False;Highlander 2;
+168;True;False;False;Hjältarna från Telemarken;The Heroes of Telemark
+128;True;False;False;Liftaren;The Hitcher
+145;True;False;False;Röda Draken;Manhunter
+906;True;False;False;Highlander;
+129;True;False;False;De hänsynslösa;Reservoir Dogs
+177;True;False;False;Köplust;Needful Things
+179;True;False;False;Örnen har landat;The Eagle Has Landed
+316;True;False;False;Shiri - Terrorns ansikte;Shiri
+210;True;False;False;Terminator 2: Judgment Day;
+308;True;False;False;Romper Stomper;
+353;True;False;False;Visitörerna;Les visiteurs
+307;True;False;False;Livet é python;And Now for Something Completely Different
+305;True;False;False;Massacre In Rome;
+467;True;False;False;Wolfhound;Volkodav iz roda serykh psov
+504;False;True;False;Mutant Chronicles;
+573;False;True;False;Outlander;
+65;True;False;False;Proof Of Life;
+10;True;False;False;Den gröna milen;The Green Mile
+390;True;False;False;THX 1138;
+118;True;False;False;Pelikanfallet;The Pelican Brief
+117;True;False;False;Outbreak;
+274;True;False;False;Robin Hood: Prince of Thieves;
+23;True;False;False;Mars Attacks!;
+26;True;False;False;Sammansvärjningen;Conspiracy Theory
+107;True;False;False;U.S. Marshals;
+108;True;False;False;Hämnarna;The Avengers
+17;True;False;False;Förhandlaren;The Negotiator
+35;True;False;False;Du Har Mail;You've Got Mail
+123;True;False;False;Wild Wild West;
+6;True;False;False;Three Kings;
+4;True;False;False;Eyes Wide Shut;
+110;True;False;False;Battlefield Earth;
+51;True;False;False;Den Perfekta Stormen;The Perfect Storm
+166;True;False;False;Skicka vidare;Pay It Forward
+105;True;False;False;Jagad;The Fugitive
+350;True;False;False;Clockwork Orange;A Clockwork Orange
+130;True;False;False;Heist;
+90;True;False;False;Swordfish;
+86;True;False;False;A.I. Artificial Intelligence;
+104;True;False;False;Ocean's Eleven;
+140;True;False;False;Queen of the Damned;
+122;True;False;False;The Time Machine;
+85;True;False;False;Harry Potter och De Vises Sten;Harry Potter and the Philosopher's Stone
+253;True;False;False;Two Weeks Notice - Kärlek på jobbet;Two Weeks Notice
+181;True;False;False;Harry Potter och hemligheternas kammare;Harry Potter and the Chamber of Secrets
+231;True;False;False;Matchstick Men;
+250;True;False;False;Mystic River;
+249;True;False;False;Den Siste Samurajen;The Last Samurai
+269;True;False;False;Harry Potter och Fången från Azkaban;Harry Potter and the Prisoner of Azkaban
+202;True;False;False;The Matrix Reloaded;
+289;True;False;False;Catwoman;
+224;True;False;False;The Matrix Revolutions;
+266;True;False;False;Rosens namn;Der Name der Rose
+34;True;False;False;Djungel George;George of the Jungle
+15;True;False;False;Face/Off;
+24;True;False;False;Enemy of the State;
+11;True;False;False;Inspector Gadget;
+106;True;False;False;One Flew Over the Cuckoo's Nest;
+324;True;False;False;Constantine;
+299;True;False;False;Ocean's Twelve;
+63;True;False;False;Poltergeist;
+384;True;False;False;Harry Potter och den Flammande Bägaren;Harry Potter and the Goblet of Fire
+399;True;False;False;Kiss Kiss Bang Bang;
+396;True;False;False;Kalle och Chokladfabriken;Charlie and the Chocolate Factory
+64;True;False;False;2010: The Year We Make Contact;2010
+208;True;False;False;Örnnästet;Where Eagles Dare
+374;True;False;False;The Island;
+363;True;False;False;Batman Begins;
+446;True;False;False;Lady in the Water;
+406;True;False;False;Syriana;
+407;True;False;False;V för Vendetta;V for Vendetta
+441;True;False;False;Blade Runner;
+59;True;False;False;Shooting Fish;
+310;True;False;False;Troja;
+52;True;False;False;Crouching Tiger Hidden Dragon;Wo hu cang long
+89;True;False;False;Apocalypse Now: REDUX;Apocalypse Now
+311;True;False;False;Kopps;
+228;True;False;False;Chicago;
+200;True;False;False;Hero;Ying xiong
+284;True;False;False;Eternal Sunshine of the Spotless Mind;
+259;True;False;False;Lost in Translation;
+318;True;False;False;Fantomen på operan;The Phantom of the Opera
+298;True;False;False;Flying Daggers;Shi Mian Mai Fu
+241;True;False;False;Spring Lola;
+382;True;False;False;The Others;
+320;True;False;False;Flykten från New York;Escape from New York
+347;True;False;False;Battle Royale;Batoru rowaiaru
+291;True;False;False;Cube 2: Hybercube;
+317;True;False;False;Guds stad;Cidade de Deus
+235;True;False;False;Spirited Away;Sen to Chihiro no kamikakushi
+139;True;False;False;Livvakterna;
+472;True;False;False;Kocken;
+479;True;False;False;The Prestige;
+459;True;False;False;Blood Diamond;
+469;True;False;False;Harry Potter och Fenixorden;Harry Potter and the Order of the Phoenix
+498;True;False;False;The Dark Knight;
+898;True;False;False;Studio 60 på Sunset Strip: Hela serien;Studio 60 on the Sunset Strip: The Complete Series
+466;True;False;False;Ocean's Thirteen;
+499;False;True;False;Blade Runner;
+486;True;False;False;Beowulf;
+556;True;False;False;9;
+602;True;False;False;Franklyn;
+475;True;False;False;This is England;
+519;True;False;False;Thick as Thieves;
+505;True;False;False;Låt den rätte komma in;
+539;True;False;False;The Men Who Stare at Goats;
+694;True;False;False;Thirst;Bakjwi
+386;True;False;False;Primer;
+431;True;False;False;Storm;
+398;True;False;False;Code 46;
+725;False;True;False;Inferno;
+730;False;True;False;Arrival;
+734;False;True;False;Underworld: Blood Wars;
+736;False;True;False;Passengers;
+740;False;True;False;Resident Evil: The Final Chapter;
+755;False;True;False;T2 Trainspotting;
+775;False;True;False;Spider-Man: Homecoming;
+757;False;True;False;The Dark Tower;
+759;False;True;False;Blade Runner 2049;
+841;False;True;False;Escape Room;
+805;False;True;False;MIB: International;
+861;False;True;False;Spider-Man: Far From Home;
+812;False;True;False;Jumanji: The Next Level;
+818;False;True;False;Parasit;Gisaengchung
+819;False;True;False;Bloodshot;
+40;True;False;False;Charlies Änglar;Charlie's Angels
+254;True;False;False;Snatch;
+41;True;False;False;Vertical Limit;
+229;True;False;False;Legenden om Bagger Vance;The Legend of Bagger Vance
+73;True;False;False;Vem är Forrester?;Finding Forrester
+71;True;False;False;Blues Brothers / Blues Brothers 2000;
+112;True;False;False;Jurassic Park / The Lost World;
+83;True;False;False;Mumien Återkomsten;The Mummy Returns
+74;True;False;False;Memento;
+87;True;False;False;En riddares historia;A Knight's Tale
+75;True;False;False;Final Fantasy;Final Fantasy: The Spirits Within
+165;True;False;False;The Fast and the Furious;
+113;True;False;False;Bandits;
+91;True;False;False;American Pie 2;
+158;True;False;False;Monty Python and the Holy Grail;
+94;True;False;False;Spy Game;
+132;True;False;False;The 51st State;
+346;True;False;False;Sjöfartsnytt;The Shipping News
+150;True;False;False;Panic Room;
+230;True;False;False;We Were Soldiers;
+135;True;False;False;Spider-Man;
+136;True;False;False;Vampires 2;
+148;True;False;False;Men in Black II;
+159;True;False;False;O Brother, Where Art Thou?;
+211;True;False;False;WASABI;
+195;True;False;False;Cubic;Equilibrium
+225;True;False;False;Taxi 3;
+238;True;False;False;Ondskan;
+240;True;False;False;Kill Bill: Volume 1;Kill Bill: Vol. 1
+400;True;False;False;Bookies;
+260;True;False;False;Kill Bill: Vol. 2;
+402;True;False;False;The Cooler;
+326;True;False;False;The Aviator;
+381;True;False;False;Gisslan;Hostage
+394;True;False;False;Danny the Dog;
+463;True;False;False;Revolver;
+437;True;False;False;Running Scared;
+485;True;False;False;Employee of the Month;
+447;True;False;False;Fearless;Huo Yuan Jia
+452;True;False;False;Crank;
+453;True;False;False;Stranger Than Fiction;
+455;True;False;False;Children of Men;
+458;True;False;False;Den innersta kretsen;The Good Shepherd
+480;True;False;False;Illusionisten;The Illusionist
+550;True;False;False;Män som hatar Kvinnor;
+518;True;False;False;Knowing;
+514;True;False;False;Push;
+509;True;False;False;Transporter 3;
+551;True;False;False;Flickan som lekte med elden;
+552;True;False;False;Luftslottet som Sprängdes;
+616;False;True;False;The Twilight Saga: Eclipse;
+892;False;True;False;Kick-Ass;
+557;True;False;False;Limitless;
+567;True;True;False;Season of the Witch;
+608;False;True;False;The Twilight Saga: Breaking Dawn: Part 1;
+590;True;True;False;The Hunger Games;
+606;True;True;False;Killer Elite;
+596;True;True;False;Haywire;
+623;True;False;False;Olympus Has Fallen;
+613;False;True;False;The Twilight Saga: Breaking Dawn - part 2;Breaking Dawn: Part Two
+624;True;True;False;Warm Bodies;
+676;True;True;False;Escape Plan;
+635;False;True;False;The Hunger Games: Catching Fire;
+626;False;True;False;Now You See Me;
+645;False;True;False;Divergent;
+651;False;True;False;Transcendence;
+654;True;False;False;Snabba Cash Trilogin;
+666;False;True;False;The Hunger Games: Mockingjay: Part I;
+688;False;True;False;The Divergent Series: Insurgent;
+669;True;False;False;100 steg från Bombay till Paris;The Hundred-foot Journey
+682;True;False;False;Ettor & Nollor;
+702;False;True;False;The Hunger Games: Mockingjay: Part 2;The Hunger Games: Mockingjay - Part 2
+708;False;True;False;The Divergent Series: Allegiant;The Divergent series: Allegiant
+739;False;True;False;La La Land;
+746;False;True;False;Power Rangers;
+203;True;False;False;The Adventures of Indiana Jones: The Complete DVD Movie Collection;
+183;True;False;False;Changing Lanes;
+257;True;False;False;The Core;
+223;True;False;False;Lara Croft: Tomb Raider: The Cradle of Life;
+294;True;False;False;The Italian Job;
+295;True;False;False;School of Rock;
+397;True;False;False;The Perfect Score;
+313;True;False;False;Mean Girls;
+391;True;False;False;Team America: World Police;
+360;True;False;False;Världarnas Krig;War of the Worlds
+405;True;False;False;Aeon Flux;Aeon Flux The Movie
+439;True;False;False;M:i:III;Mission: Impossible III
+460;True;False;False;Shooter;
+44;True;False;False;Iron Man;
+491;True;False;False;Cloverfield;
+535;True;False;False;The Godfather - The Coppola Restoration;
+501;True;False;False;Eagle Eye;
+538;True;False;False;Up in the Air;
+579;False;True;False;No Strings Attached;
+597;True;False;False;Thor;
+580;False;True;False;Captain America: The First Avenger;
+609;True;True;False;Mission:Impossible: Ghost Protocol;Mission: Impossible: Ghost Protocol
+617;False;True;False;Jack Reacher;
+912;False;True;False;The Usual Suspects;
+621;False;True;False;G.I. Joe 2: Retaliation;
+712;False;True;False;Star Trek: Into Darkness;
+631;False;True;False;World War Z;
+711;False;True;False;Star Trek;
+508;True;False;False;Frostbiten;
+516;False;True;False;Watchmen;
+523;False;True;False;Transformers: Revenge of the Fallen;
+526;False;True;False;G.I. Joe: The Rise of Cobra;
+279;True;True;False;Iron Man 2;
+473;True;False;False;München;Munich
+471;True;False;False;Transformers;
+507;True;False;False;Tropic Thunder;
+576;True;True;False;Megamind;
+487;True;False;False;Bee Movie;
+497;True;False;False;Kung Fu Panda;
+565;True;False;False;Cowboys & Aliens;
+681;False;True;False;The Imitation Game;
+807;False;True;False;Skyfall;
+703;False;True;False;Spectre;
+719;True;True;False;Bad Moms;
+899;False;True;False;Livet efter dig;Me Before You
+741;False;True;False;The Space Between Us;
+738;False;True;False;The Night Manager;
+729;False;True;False;Sju minuter över midnatt;A Monster Calls
+773;False;True;False;Tomb Raider;
+793;False;True;False;King of Thieves;
+795;False;True;False;Iron Sky: The Coming Race;
+839;False;True;False;Tenet;
+858;False;True;False;The Witches;
+846;True;True;True;Fast And Furious 9;
+847;False;True;False;The Suicide Squad;
+848;False;True;False;Dune;
+882;False;True;True;Dune;Dune: Part One
+845;True;True;True;Escape Room 2 - No Way Out;
+849;False;True;False;No Time to Die;
+862;False;True;False;Last Night in Soho;
+860;False;True;False;Spider-Man: No Way Home;
+866;True;True;True;Operation Fortune: Ruse de Guerre;
+876;False;True;False;The Northman;
+853;False;True;False;Morbius;
+865;False;True;False;Top Gun: Maverick;
+854;False;True;False;Doctor Strange in the Multiverse of Madness;
+855;False;True;False;Thor: Love and Thunder;
+857;False;True;False;Bullet Train;
+869;False;True;False;Black Panther: Wakanda Forever;
+871;False;True;False;Avatar: The Way of Water;
+868;False;True;False;Babylon;
+872;False;True;False;Dungeons & Dragons: Honor Among Thieves;
+870;False;True;False;Ant-Man and the Wasp: Quantumania;
+873;False;True;False;Guardians of the Galaxy: Vol. 3;
+923;False;True;False;The Firm;
+883;False;True;True;Dune: Part Two;
+880;False;True;True;The Abyss;
+881;False;False;True;The Fall Guy;
+879;False;True;True;Deadpool & Wolverine;
+916;False;True;False;Gladiator II;
+918;False;True;False;Thunderbolts;
+925;False;True;False;Jurassic World Rebirth;
+924;False;True;False;The Fantastic Four: First Steps;
+926;False;True;False;The Running Man;
+534;True;False;False;The Box;
+600;False;True;False;Source Code;
+604;True;False;False;Conan the Barbarian;
+589;False;True;False;Iron Sky;
+620;False;True;False;Cloud Atlas;
+625;False;True;False;The Host;
+575;True;False;False;Five Minarets in New York;
+554;False;True;False;Four Lions;
+544;True;False;False;The Expendables;
+655;False;True;False;The Wolverine;
+657;False;True;False;Trance;
+679;True;True;False;Another Earth;
+675;True;True;False;Jack Ryan: Shadow Recruit;
+697;True;True;False;Dexter the Complete Collection;
+640;False;True;False;The Monuments Men;
+646;False;True;False;24: Live Another Day;
+649;False;True;False;X-Men: Days of Future Past;
+834;False;True;False;Transformers: Age of Extinction;
+661;False;True;False;The Maze Runner;
+683;True;False;False;Kingsman: The Secret Service;
+699;False;True;False;Spy;
+698;False;True;False;Mission: Impossible: Rogue Nation;
+696;False;True;False;Maze Runner: The Scorch Trials;
+701;False;True;False;The Martian;
+706;False;True;False;Joy;
+709;False;True;False;Deadpool;
+878;False;True;True;Deadpool;
+720;False;True;False;Star Trek: Beyond;
+724;False;True;False;Morgan;
+827;False;True;False;Die Hard Legacy Collection;
+728;False;True;False;Fantastic Beasts and Where to Find Them;
+737;False;True;False;Assassin's Creed;
+735;False;True;False;Collateral Beauty;
+743;False;True;False;Hidden Figures;
+915;False;True;False;xXx: Return of Xander Cage;
+745;False;True;False;Ghost in the Shell;
+750;False;True;False;Wonder Woman;
+760;False;True;False;Geostorm;
+816;False;True;False;Kingsman: The Golden Circle;
+856;False;True;False;The Greatest Showman;
+769;False;True;False;Maze Runner: The Death Cure;
+771;False;True;False;The Shape of Water;
+768;False;True;False;Downsizing;
+774;False;True;False;Ready Player One;
+772;False;True;False;Red Sparrow;
+874;True;True;True;Mission Impossible 2;
+875;True;True;True;Mission Impossible 3;
+784;False;True;False;Deadpool 2;
+798;False;True;False;Mission: Impossible: Fallout;
+782;False;True;False;The Darkest Minds;
+779;False;True;False;Ocean's 8;
+781;True;True;True;Tag;
+833;False;True;False;Bohemian Rhapsody;
+792;False;True;False;Fantastic Beasts: The Crimes of Grindelwald;
+800;False;True;False;Alita: Battle Angel;
+791;False;True;False;Aquaman;
+797;False;True;False;Bumblebee;
+808;False;True;False;Ad Astra;
+799;False;True;False;Shazam!;
+831;False;True;False;X-Men: Dark Phoenix;
+810;False;True;False;Terminator: Dark Fate;
+817;False;True;False;Joker;
+809;False;True;False;Gemini Man;
+820;False;True;False;Jojo Rabbit;
+828;False;True;False;Spies in Disguise;
+821;False;True;False;Birds of Prey;Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
+877;True;True;True;Top Gun;
+236;True;False;False;The Calibrator;
+408;True;False;False;Edmond;
+435;True;False;False;Führerns elit;NaPolA
+442;True;False;False;Lady Vengeance;Chinjeolhan geumjassi
+379;True;False;False;Akira;
+726;False;True;False;The Girl With All the Gifts;
+152;True;False;False;Kanonerna på Navarone;The Guns of Navarone
+5;True;False;False;Gattaca;
+9;True;False;False;Vampires, John Carpenter's;
+46;True;False;False;Fortress 2: Re-Entry;
+68;True;False;False;The Blair Witch Project;
+69;True;False;False;Reindeer Games;
+38;True;False;False;Jeanne d'Arc;The Messenger: The Story of Joan of Arc
+81;True;False;False;Erin Brockovich;
+12;True;False;False;Men in Black;
+47;True;False;False;Gladiator;
+27;True;False;False;Shakespeare in Love;
+21;True;False;False;Möt Joe Black;Meet Joe Black
+37;True;False;False;Mercury Rising;
+619;False;True;False;Hansel & Gretel: Witch Hunters;
+632;False;True;False;The Mortal Instruments - Stad av skuggor;The Mortal Instruments - Ciry of Bones
+449;True;False;False;Little Miss Sunshine;
+448;True;False;False;Eragon;
+464;True;False;False;Mimzy;The Lasy Mimzy
+470;True;False;False;Planet Terror;
+465;True;False;False;24: Season Six DVD Collection;24: Season 6
+484;True;False;False;Shoot 'Em Up;
+482;True;False;False;Michael Clayton;
+476;True;False;False;Day Watch;Dnevnoy dozor
+489;True;False;False;Eastern Promises;
+492;True;False;False;Jumper;
+566;True;False;False;The Happening;
+512;True;False;False;Burn After Reading;
+503;True;False;False;24: Redemption;
+517;True;False;False;24: Season Seven DVD Collection;24: Season 7
+48;True;False;False;X-Men Origins: Wolverine;
+187;True;False;False;District 9;
+362;True;False;False;24: Season 8: The Final Season;24: Season 8: The Complete Final Season
+302;True;False;False;Fargo;
+3;True;False;False;Sjätte sinnet;The Sixth Sense
+45;True;False;False;The Cell;
+66;True;False;False;X-Men;
+58;True;False;False;Djävulen och Jag;Bedazzled
+116;True;False;False;The Terminator;
+193;True;False;False;Independence Day;
+95;True;False;False;The Abyss;
+78;True;False;False;Arkiv X: Fight the Future;The X-Files
+62;True;False;False;Planet of the Apes Box Set;
+188;True;False;False;Titanic;
+191;True;False;False;Knockaround Guys;
+61;True;False;False;Star Wars: Episod I: Det Mörka Hotet;Star Wars: Episode I: The Phantom Menace
+343;True;False;False;Mod Squad, The;
+367;True;False;False;Lida;Misery
+190;True;False;False;Hackers;
+194;True;False;False;Det Stora Blå;The Big Blue
+96;True;False;False;Apornas Planet;Planet of the Apes
+119;True;False;False;Rush Hour 2;
+97;True;False;False;Moulin Rouge!;
+93;True;False;False;America's Sweethearts;
+303;True;False;False;Legally Blonde;
+126;True;False;False;Don't Say a Word;
+189;True;False;False;Wargames;
+197;True;False;False;The Pink Panther Film Collection;
+138;True;False;False;Willow;
+134;True;False;False;Blade II;
+142;True;False;False;Star Wars: Episod II: Klonerna Anfaller;Star Wars: Episode II: Attack of the Clones
+144;True;False;False;Minority Report;
+141;True;False;False;Sagan om ringen: Härskarringen;The Lord of the Rings: The Fellowship of the Ring
+163;True;False;False;Austin Powers in Goldmember;
+204;True;False;False;En fisk som heter Wanda;A Fish Called Wanda
+172;True;False;False;Drakarnas Rike;Reign of Fire
+180;True;False;False;xXx;
+173;True;False;False;One Hour Photo;
+175;True;False;False;Road to Perdition;
+170;True;False;False;24: Season One;
+339;True;False;False;Kagemusha - Spökgeneralen;Kagemusha
+182;True;False;False;Die Another Day;
+392;True;False;False;Transporter;The Transporter
+265;True;False;False;Phone Booth;
+196;True;False;False;Solaris;
+206;True;False;False;X-Men 2;
+356;True;False;False;Maid in Manhattan;
+255;True;False;False;Uppdraget;The Recruit
+207;True;False;False;Sagan om de två tornen: Härskarringen;The Lord of the Rings: The Two Towers
+304;True;False;False;Legally Blonde 2;Legally Blonde 2: Red White & Blonde
+220;True;False;False;Bruce den allsmäktige;Bruce Almighty
+248;True;False;False;De Utvalda;Runaway Jury
+227;True;False;False;24: Season Two;
+267;True;False;False;Day After Tomorrow;The Day After Tomorrow
+261;True;False;False;Star Wars Trilogy;
+351;True;False;False;The Girl Next Door;
+270;True;False;False;I, Robot;
+272;True;False;False;Sagan om konungens återkomst: Härskarringen;The Lord of the Rings: The Return of the King
+285;True;False;False;Hellboy;
+296;True;False;False;24: Season Three;
+328;True;False;False;Blade: Trinity;
+322;True;False;False;Sideways;
+323;True;False;False;Elektra;
+341;True;False;False;Be Cool;
+349;True;False;False;Sin City;
+352;True;False;False;Star Wars: Episod III: Mörkrets Hämnd;Star Wars: Episode III: Revenge of the Sith
+348;True;False;False;Kingdom of Heaven;
+383;True;False;False;24: Season Four;
+393;True;False;False;Transporter 2;
+380;True;False;False;Nattens väktare;Nochnoi dozor
+434;True;False;False;X-Men 3: The Last Stand;X-Men: The Last Stand
+409;True;False;False;Dr. No - Agent 007 med rätt att döda;Dr. No
+411;True;False;False;Goldfinger;
+412;True;False;False;Åskbollen;Thunderball
+414;True;False;False;I hennes majestäts hemliga tjänst;On Her Majesty's Secret Service
+410;True;False;False;Agent 007 ser rött;From Russia With Love
+420;True;False;False;Ur dödlig synvinkel;For Your Eyes Only
+416;True;False;False;Leva och låta dö;Live and Let Die
+418;True;False;False;Älskade spion;The Spy Who Loved Me
+424;True;False;False;Tid för hämnd;Licence to Kill
+417;True;False;False;Mannen med den gyllene pistolen;The Man With the Golden Gun
+419;True;False;False;Moonraker;
+415;True;False;False;Diamantfeber;Diamonds Are Forever
+425;True;False;False;Goldeneye;
+426;True;False;False;Tomorrow Never Dies;
+413;True;False;False;Man lever bara två gånger;You Only Live Twice
+423;True;False;False;Iskallt uppdrag;The Living Daylights
+421;True;False;False;Octopussy;
+427;True;False;False;Världen räcker inte till;The World Is Not Enough
+422;True;False;False;Levande måltavla;A View to a Kill
+428;True;False;False;Die Another Day;
+429;True;False;False;James Bond - 40 Disc Attaché Case;
+444;True;False;False;24: Season Five DVD Collection;24: Season 5
+445;True;False;False;Hotet Inifrån;The Sentinel
+601;True;True;False;Abraham Lincoln: Vampire hunter;
+490;False;True;False;Arn - Tempelriddaren;
+594;False;True;False;The Fountain;
+495;False;True;False;Arn - Riket vid vägens slut;
+502;False;True;False;Max Payne;
+547;False;True;False;Quantum of Solace;
+593;False;True;False;Det Femte Elementet;the fifth element
+543;True;True;False;Avatar;
+560;False;True;False;X-Men: First Class;
+577;True;True;False;In Time;
+581;False;True;False;Tinker Tailor Soldier Spy;
+582;True;True;False;The Darkest Hour;
+586;True;True;False;This Means War;
+585;True;True;False;Chronicle;
+527;False;True;False;Braveheart;
+530;False;True;False;The League;The League of Extraordinary Gentlemen
+529;False;True;False;Fight Club;
+531;False;True;False;Mr. & Mrs. Smith;
+528;False;True;False;Daredevil;
+574;False;True;False;Mr. Nice;
+143;True;False;False;Black Adder: All Four Series;
+56;True;False;False;Nyckeln till frihet;Shawshank Redemption, The
+49;True;False;False;Seven;Se7en
+7;True;False;False;American Pie;
+280;True;False;False;Pitch Black;
+88;True;False;False;The Long Kiss Goodnight;
+109;True;False;False;Dark City;
+167;True;False;False;Cube;
+111;True;False;False;U-571;
+53;True;False;False;Jakten På Röd Oktober;The Hunt For Red October
+327;True;False;False;The War of the Worlds;
+156;True;False;False;Flykten Från Alcatraz;
+366;True;False;False;The Godfather DVD Collection;
+115;True;False;False;Helgonet;The Saint
+92;True;False;False;Mission: Impossible;
+198;True;False;False;Forrest Gump;
+57;True;False;False;Saving Private Ryan;
+43;True;False;False;M:i-2;Mission: Impossible II
+82;True;False;False;Lara Croft: Tomb Raider;
+31;True;False;False;Gone in 60 Seconds;Gone in Sixty Seconds
+55;True;False;False;Det femte elementet;The Fifth Element
+50;True;False;False;Coyote Ugly;
+72;True;False;False;Leon;
+357;True;False;False;10 orsaker att hata dig;10 Things I Hate About You
+77;True;False;False;Air Force One;
+60;True;False;False;The Rock;
+54;True;False;False;Starship Troopers;
+252;True;False;False;Armageddon;
+84;True;False;False;Pearl Harbor;
+103;True;False;False;Enigma;
+273;True;False;False;Gangs of New York;
+121;True;False;False;K-Pax;
+184;True;False;False;K-19: The Widowmaker;
+161;True;False;False;Bad Company;
+192;True;False;False;Big Trouble;
+171;True;False;False;Signs;
+287;True;False;False;Resident Evil;
+199;True;False;False;25th Hour;
+222;True;False;False;Pirates of the Caribbean: Svarta pärlans förbannelse;Pirates of the Caribbean: The Curse of the Black Pearl
+275;True;False;False;Hitta Nemo;Finding Nemo
+290;True;False;False;Hidalgo;
+281;True;False;False;The Village;
+300;True;False;False;National Treasure;
+293;True;False;False;Superhjältarna;The Incredibles
+401;True;False;False;Life Aquatic with Steve Zissou;The Life Aquatic with Steve Zissou
+79;True;False;False;100 Girls;
+76;True;False;False;Austin Powers: International Man of Mystery;
+30;True;False;False;Austin Powers: The Spy Who Shagged Me;
+365;True;False;False;Liftarens Guide Till Galaxen;The Hitchhiker's Guide to the Galaxy
+443;True;False;False;Pirates of the Caribbean: Död mans kista;Pirates of the Caribbean: Dead Man's Chest
+483;True;False;False;Råttatouille;Ratatouille
+895;False;True;False;Pirates of the Caribbean: Svarta Pärlans förbannelse;Pirates of the Caribbean: The Curse of the Black Pearl
+896;False;True;False;Pirates of the Caribbean: Död mans kista;Pirates of the Caribbean: Dead Man's Chest
+894;False;True;False;The Rock;
+908;False;True;False;Pirates of the Caribbean: Vid Världens Ände;Pirates of the Caribbean: At World's End
+488;True;False;False;National Treasure 2: Hemligheternas Bok;National Treasure: Book of Secrets
+532;False;True;False;Surrogates;
+555;True;True;False;TRON: Legacy;
+558;True;False;False;I Am Number Four;
+629;False;True;False;Pirates of the Caribbean: I Främmande Farvatten;Pirates of the Caribbean: On Stranger Tides
+595;False;True;False;Marvel's The Avengers 3D;The Avengers
+584;False;True;False;Hamilton: I Nationens Intresse;
+824;False;True;False;Modig;Brave
+611;False;True;False;Hamilton 2: Men inte om det gäller din dotter;
+641;False;True;False;Iron Man 3;
+628;False;True;False;The Lone Ranger;
+637;False;True;False;Thor: The Dark World;
+636;False;True;False;Ender's Game;
+643;False;True;False;Hundraåringen som klev ut genom fönstret och försvann;
+647;False;True;False;Maleficent;
+644;False;True;False;Captain America: The Winter Soldier;
+660;False;True;False;Guardians Of The Galaxy;
+685;False;True;False;Cirkeln;
+700;False;True;False;Avengers: Age of Ultron;
+690;False;True;False;Tomorrowland: A World Beyond;Tomorrowland
+691;False;True;False;Ant-Man;
+715;False;True;False;Star Wars: The Force Awakens;Star Wars: Episode VII: The Force Awakens
+721;False;True;False;Captain America: Civil War;
+716;True;True;False;Castle, The Complete Series;
+727;False;True;False;Doctor Strange;
+733;False;True;False;Rogue One: A Star Wars Story;Rogue One
+835;False;True;False;Vaiana;Moana
+747;False;True;False;Guardians of the Galaxy Vol. 2;
+749;False;True;False;Pirates of the Caribbean: Salazar's Revenge;Pirates of the Caribbean: Dead Men Tell No Tales
+761;False;True;False;Thor: Ragnarok;
+789;False;True;False;Star Wars: The Last Jedi;
+770;False;True;False;Black Panther;
+786;False;True;False;Avengers: Infinity War;
+778;False;True;False;Solo: A Star Wars Story;
+783;False;True;False;Superhjältarna 2;Incredibles 2
+780;False;True;False;Ant-Man and the Wasp;
+796;False;True;False;Glass;
+825;False;True;False;Mary Poppins Returns;
+801;False;True;False;Captain Marvel;
+803;False;True;False;Avengers: Endgame;
+832;False;True;False;Aladdin;
+830;False;True;False;Maleficent: Mistress of Evil;
+829;False;True;False;Star Wars: The Rise of Skywalker;Star Wars: Episode IX: The Rise of Skywalker
+823;True;True;True;Frost & Frost 2;
+927;False;True;True;Jungle Cruise;
+840;False;True;False;Cruella;
+843;False;True;False;Black Widow;
+842;False;True;False;Free Guy;
+902;False;True;False;Shang-Chi and the Legend of the Ten Rings;
+852;False;True;False;The King's Man;
+764;False;True;False;Mad Max Beyond Thunderdome;
+765;False;True;False;Mad Max: Fury Road;
+766;False;True;False;The Road Warrior;Mad Max 2
+767;False;True;False;Mad Max;
