@@ -1,0 +1,7 @@
+Apple;Fruit;Red;Sweet
+Banana;Fruit;Yellow;Soft
+Carrot;Vegetable;Orange;Crunchy
+Broccoli;Vegetable;Green;Bitter
+Mango;Fruit;Yellow;Juicy
+Spinach;Vegetable;Green;Earthy
+
