@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const row = document.createElement('tr');
             item.forEach(cell => {
                 const td = document.createElement('td');
-                td.textContent = cell;
+                td.innerHTML = cell;
                 row.appendChild(td);
             });
             dataTableBody.appendChild(row);

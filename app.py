@@ -3,15 +3,26 @@ from flask import Flask, render_template, request, jsonify
 
 app = Flask(__name__)
 
+IMAGE_FILES = [
+    'DVD_video_logo_20px.png',
+    'Blu_ray_logo_20px.png',
+    'UHD_Blu-ray_logo_20px.png'
+]
+SOURCES = [ f'<img src="/static/{fname}"/>' for fname in IMAGE_FILES ]
+
 # Function to load data from the text file
 def load_data(filepath="data.txt"):
     data = []
     try:
-#        with open(filepath, 'r', encoding='utf-8') as f:
         with open(filepath, 'r', encoding='iso-8859-1') as f:
             for line in f:
                 if line.strip():  # Only process non-empty lines
-                    data.append(line.strip().split(';'))
+                    a = line.strip().split(';')
+                    b = a[1:4]
+                    s = ' '.join([ SOURCES[idx] for idx,val in enumerate(b) if val.lower()=='true' ]).strip()
+                    c = [ a[0], s ]
+                    c.extend(a[4:])
+                    data.append(c)
     except FileNotFoundError:
         print(f"Warning: data.txt not found at {filepath}. Please create it.")
     return data
@@ -21,6 +32,7 @@ def index():
     # Load data initially when the page is requested
     items = load_data()
     return render_template('index.html', items=items)
+
 
 @app.route('/search', methods=['GET'])
 def search_data():

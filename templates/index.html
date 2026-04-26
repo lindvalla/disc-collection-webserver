@@ -23,9 +23,7 @@
             <tr>
                 <!-- Assuming you know your column headers or want generic ones -->
                 <th>Num</th>
-                <th>DVD</th>
-                <th>BD</th>
-                <th>4K</th>
+                <th>Disc</th>
                 <th>Title</th>
                 <th>Orig Title</th>
                 <!-- Add more <th> for more columns as needed -->
@@ -36,7 +34,7 @@
             {% for item in items %}
                 <tr>
                     {% for cell in item %}
-                        <td>{{ cell }}</td>
+                        <td>{{ cell|safe }}</td>
                     {% endfor %}
                 </tr>
             {% endfor %}
