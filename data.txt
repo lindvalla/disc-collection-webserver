@@ -120,11 +120,13 @@
 433;True;False;False;Underworld: Evolution;
 436;True;False;False;Ultraviolet;
 440;True;False;False;Da Vinci Koden;The Da Vinci Code
+933;False;True;False;Resident Evil: Apocalypse;
 454;True;False;False;Pakten;The Covenant
 478;True;False;False;Jakten På Lycka;The Pursuit of Happyness
 462;True;False;False;Ghost Rider;
 468;True;False;False;Spider-Man 3;
 477;True;False;False;Resident Evil: Extinction;
+934;False;True;False;Resident Evil: Extinction;
 493;True;False;False;Hancock;
 511;False;True;False;The Spirit;
 515;True;False;False;The International;
@@ -137,6 +139,7 @@
 569;False;True;False;Legion;
 542;False;True;False;Salt;
 545;True;False;False;Resident Evil: Afterlife;
+929;False;True;False;Resident Evil: Afterlife;
 549;False;True;False;The Green Hornet;
 561;False;True;False;Priest;
 905;False;True;False;Underworld Awakening;
@@ -168,6 +171,7 @@
 578;False;True;False;Contagion;
 587;False;True;False;Sherlock Holmes: A Game Of Shadows;
 914;False;True;False;Seven;
+935;False;True;False;The Matrix Collection;
 658;True;False;False;Jack the Giant Slayer;
 662;False;True;False;The Great Gatsby 3D;The Great Gatsby
 634;False;True;False;Pacific Rim;
@@ -190,6 +194,7 @@
 684;False;True;False;Blackhat;
 680;False;True;False;Fifty Shades of Grey;
 687;False;True;False;EX_MACHINA;Ex Machina
+932;False;True;False;Jurassic World;
 707;False;True;False;Mr. Robot Season 1;
 722;False;True;False;The Huntsman: Winter's War;
 889;False;True;True;Jason Bourne;
@@ -208,6 +213,7 @@
 864;True;True;True;Kung Fu Panda 2;
 788;False;True;False;Fifty Shades Freed;
 777;False;True;False;The Endless;
+928;False;True;False;Jurassic World: Fallen Kingdom;
 790;False;True;False;Mortal Engines;
 806;False;True;False;Fast & Furious Presents: Hobbs & Shaw;
 804;False;True;False;The Hummingbird Project;
@@ -576,6 +582,7 @@
 845;True;True;True;Escape Room 2 - No Way Out;
 849;False;True;False;No Time to Die;
 862;False;True;False;Last Night in Soho;
+939;False;True;False;The Matrix Resurrections;
 860;False;True;False;Spider-Man: No Way Home;
 866;True;True;True;Operation Fortune: Ruse de Guerre;
 876;False;True;False;The Northman;
@@ -596,7 +603,7 @@
 881;False;False;True;The Fall Guy;
 879;False;True;True;Deadpool & Wolverine;
 916;False;True;False;Gladiator II;
-918;False;True;False;Thunderbolts;
+918;False;True;False;Thunderbolts*;
 925;False;True;False;Jurassic World Rebirth;
 924;False;True;False;The Fantastic Four: First Steps;
 926;False;True;False;The Running Man;
@@ -604,6 +611,7 @@
 600;False;True;False;Source Code;
 604;True;False;False;Conan the Barbarian;
 589;False;True;False;Iron Sky;
+930;False;True;False;Looper;
 620;False;True;False;Cloud Atlas;
 625;False;True;False;The Host;
 575;True;False;False;Five Minarets in New York;
@@ -620,6 +628,7 @@
 834;False;True;False;Transformers: Age of Extinction;
 661;False;True;False;The Maze Runner;
 683;True;False;False;Kingsman: The Secret Service;
+931;False;True;False;Kingsman: The Secret Service;
 699;False;True;False;Spy;
 698;False;True;False;Mission: Impossible: Rogue Nation;
 696;False;True;False;Maze Runner: The Scorch Trials;
@@ -922,6 +931,9 @@
 902;False;True;False;Shang-Chi and the Legend of the Ten Rings;
 852;False;True;False;The King's Man;
 764;False;True;False;Mad Max Beyond Thunderdome;
+936;False;True;False;The Matrix Reloaded;
+937;False;True;False;The Matrix;
 765;False;True;False;Mad Max: Fury Road;
 766;False;True;False;The Road Warrior;Mad Max 2
+938;False;True;False;The Matrix Revolutions;
 767;False;True;False;Mad Max;

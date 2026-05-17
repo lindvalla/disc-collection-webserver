@@ -30,11 +30,11 @@ cd projects/movie_filter
 
 ## Todo
 
-* checkboxes for bluray, dvd, 4K, Johan, Me
-
+* Checkboxes for bluray, dvd, 4K, Johan, Me
 * Check if the data matches the actually ripped movie database
-
 * Add Johan data
+* Sort by clicking column head
+* Nicer UI
 
 
 ## DVDProfiler -> data
@@ -77,5 +77,5 @@ def parse(fname):
                 fout.write(f"{num};{media};{title};{orig}\n")
 
 if __name__=='__main__':
-    parse(r'g:\My Drive\SynkaPrivat\dvd_backup_980_exported_Collection.xml')
+    parse(r'g:\My Drive\SynkaPrivat\dvd_backup_992_exported_Collection.xml')
 ```
