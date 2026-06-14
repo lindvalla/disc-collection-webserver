@@ -85,3 +85,16 @@ def parse(fname):
 if __name__=='__main__':
     parse(r'g:\My Drive\SynkaPrivat\dvd_backup_992_exported_Collection.xml')
 ```
+
+## Future
+
+The following files are part of an attempt to check the ``content.txt`` (i.e. the file of actual ripped movies)
+with the ``data.txt`` that we create from the exported collection in DVD Profiler. The work has just started
+and with ``txt_to_data.py`` creating ``extracted_from_txt.txt`` it is clear that neither side is complete.
+The xml-based data e.g. has 'Tillbaka till framtiden' trilogy (id 131) as a collection without a english title.
+The txt-based data has 'Back to the Future' + II + III, all without an id.
+
+* ``extracted_from_txt.txt``
+* ``list_compare.py``
+* ``txt_to_data.py``
+* ``backups/content.txt``
