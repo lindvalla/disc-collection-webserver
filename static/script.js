@@ -1,6 +1,9 @@
 // static/script.js
 document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.getElementById('search-input');
+    //const hidedvdInput = document.getElementById('hidedvd');
+    //const hideblurayInput = document.getElementById('hidebluray');
+    //const hide4kInput = document.getElementById('hide4k');
     const dataTableBody = document.querySelector('#data-table tbody');
 
     function updateTable(data) {
@@ -17,6 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
             item.forEach(cell => {
                 const td = document.createElement('td');
                 td.innerHTML = cell;
+                //td.textContent = cell;
                 row.appendChild(td);
             });
             dataTableBody.appendChild(row);
@@ -25,6 +29,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     searchInput.addEventListener('keyup', function() {
         const query = searchInput.value;
+        //const hidedvd = hidedvdInput.checked;
+        //const hidebluray = hideblurayInput.checked;
+        //const hide4k = hide4kInput.checked;
+        //fetch(`/search?query=${encodeURIComponent(query)}&hidedvd=${hidedvd}&hidebluray=${hidevbluray}&hide4k=${hide4k}`)
         fetch(`/search?query=${encodeURIComponent(query)}`)
             .then(response => response.json())
             .then(data => {

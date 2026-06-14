@@ -14,15 +14,22 @@ SOURCES = [ f'<img src="/static/{fname}"/>' for fname in IMAGE_FILES ]
 def load_data(filepath="data.txt"):
     data = []
     try:
+#        with open(filepath, 'r', encoding='utf-8') as f:
         with open(filepath, 'r', encoding='iso-8859-1') as f:
             for line in f:
                 if line.strip():  # Only process non-empty lines
+                    #data.append(line.strip().split(';'))
                     a = line.strip().split(';')
+                    #print("a=", a)
                     b = a[1:4]
+                    #print("b=", b)
                     s = ' '.join([ SOURCES[idx] for idx,val in enumerate(b) if val.lower()=='true' ]).strip()
+                    #print("s=", s)
                     c = [ a[0], s ]
                     c.extend(a[4:])
+                    #print("c=", c)
                     data.append(c)
+                    #break
     except FileNotFoundError:
         print(f"Warning: data.txt not found at {filepath}. Please create it.")
     return data
@@ -37,6 +44,9 @@ def index():
 @app.route('/search', methods=['GET'])
 def search_data():
     query = request.args.get('query', '').lower()
+    #onlyhavedvd = request.args.get('hidedvd', 'false').lower()=='false'
+    #includebluray = request.args.get('hidebluray', 'false').lower()=='false'
+    #include4k = request.args.get('hide4k', 'false').lower()=='false'
     all_items = load_data()
     filtered_items = []
 
@@ -44,6 +54,11 @@ def search_data():
         for item in all_items:
             # Check if query is in any part of the item (e.g., any column)
             if any(query in col.lower() for col in item):
+                #if onlyhavedvd:
+                #    if not (bool(item[2]) or bool(item[3])):
+                #        filtered_items.append(item)
+                #else:
+                #    filtered_items.append(item)
                 filtered_items.append(item)
     else:
         # If no query, return all items
@@ -53,4 +68,5 @@ def search_data():
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000, host='0.0.0.0')
+    #load_data()
 

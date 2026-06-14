@@ -17,14 +17,32 @@
     <h1>Search and Filter Data</h1>
 
     <input type="text" id="search-input" placeholder="Type to filter...">
+    <!--<fieldset>
+        <legend>What to hide</legend>
+        <div>
+            <input type="checkbox" id="hidedvd" name="hidedvd" checked>
+            <label for="hidedvd">Hide DVD</label>
+        </div>
+        <div>
+            <input type="checkbox" id="hidebluray" name="hidebluray">
+            <label for="hidebluray">Hide BluRay</label>
+        </div>
+        <div>
+            <input type="checkbox" id="hide4k" name="hide4k">
+            <label for="hide4k">Hide 4K</label>
+        </div>
+    </fieldset>-->
 
     <table id="data-table">
         <thead>
             <tr>
                 <!-- Assuming you know your column headers or want generic ones -->
-                <th>Num</th>
+                <th><a href="/search?sort=Num">Num</a></th>
+                <!--<th>DVD</th>
+                <th>BD</th>
+                <th>4K</th>-->
                 <th>Disc</th>
-                <th>Title</th>
+                <th><a href="/search?sort=Title">Title</a></th>
                 <th>Orig Title</th>
                 <!-- Add more <th> for more columns as needed -->
             </tr>
