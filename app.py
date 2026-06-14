@@ -1,5 +1,8 @@
+from xml_to_data import backup_then_parse
+
 # app.py
 from flask import Flask, render_template, request, jsonify
+
 
 app = Flask(__name__)
 
@@ -65,6 +68,38 @@ def search_data():
         filtered_items = all_items
 
     return jsonify(filtered_items)
+
+
+@app.route('/upload',  methods=['POST'])
+def upload_file():
+    # Check if file is part of the request
+    if 'data_file' not in request.files:
+        return jsonify({'message': 'No file part in the request'}), 400
+
+    file = request.files['data_file']
+
+    if file.filename == '':
+        return jsonify({'message': 'No file selected'}), 400
+
+    try:
+        # --- YOUR PARSING LOGIC HERE ---
+        # Example: Read text file contents
+        backup_then_parse(file)
+
+        #file_contents = file.read().decode('utf-8')
+
+        # Simulate a parsing failure condition if needed
+        #if "invalid" in file_contents:
+        #    raise ValueError("Invalid data format detected inside file.")
+
+        # Save data or update your database here
+        # ---------------------------------
+
+        return jsonify({'message': 'File parsed and data updated successfully!'}), 200
+
+    except Exception as e:
+        # Return the specific parsing error message to the frontend
+        return jsonify({'message': f'Failed to parse file. Error: {str(e)}'}), 400
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000, host='0.0.0.0')

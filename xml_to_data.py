@@ -1,53 +1,5 @@
-# Movie search program
-
-Can reach it over nordvpn meshnet as
-
-http://anders.xa.lindvall-olympic.nord:5000/
-
-or on home network as
-
-http://raspi-proj-dev.dreadlands:5000/
-
-
-## Start after Pi reboot:
-
-``screen -S movies``
-
-Rename tab to webserver Ctrl-a Ctrl-A
-
-```bash
-cd projects/movie_filter
-. .venv/bin/activate
-python app.py
-```
-
-Create a second tab, Ctrl-a -Ctrl-c
-
-```bash
-cd projects/movie_filter
-```
-
-
-## Todo
-
-* Checkboxes for bluray, dvd, 4K, Johan, Me
-* Check if the data matches the actually ripped movie database
-* Add Johan data
-* Sort by clicking column head
-* Nicer UI
-
-
-## DVDProfiler -> data
-
-### New way
-
-As of 2026-06-14 there is an upload button that will accept the exported profile data (.xml).
-
-### Old way
-
-The tool to extract movie list from dvd profiler exported data is:
-
-```python
+import os
+import shutil
 import xml.etree.ElementTree as ET
 
 def getmedia(node):
@@ -57,8 +9,18 @@ def getmedia(node):
     # return dvd, blue, uhd
     return f"{dvd};{blue};{uhd}"
 
-def parse(fname):
-    tree = ET.parse(fname)
+def sanity_check_the_xml(fs):
+    #print(f"{fs=}")
+    data = fs.read(1000).decode('iso-8859-1')
+    if data.find('DVD Profiler Collection Export') < 0:
+        raise ValueError("Could not find 'DVD Profiler Collection Export' in selected file")
+    # move file pointer back to the start
+    fs.stream.seek(0)
+
+
+def parse(fs):
+    sanity_check_the_xml(fs)
+    tree = ET.parse(fs)
     root = tree.getroot()
     with open('extracted.txt', 'w') as fout:
         i = 0
@@ -82,6 +44,19 @@ def parse(fname):
             if num != -1:
                 fout.write(f"{num};{media};{title};{orig}\n")
 
-if __name__=='__main__':
-    parse(r'g:\My Drive\SynkaPrivat\dvd_backup_992_exported_Collection.xml')
-```
+# Takes a flask FileStorage object in
+def backup_then_parse(fs):
+    os.makedirs('backups', exist_ok=True)
+    if os.path.exists('extracted.txt'):
+        shutil.move('extracted.txt', 'backups/extracted.txt.old')
+    with open('extracted.txt', 'w') as f:
+        pass
+    parse(fs)
+    for i in reversed(range(5)):
+        src = f"backups/data.txt.old{i}"
+        dst = f"backups/data.txt.old{i+1}"
+        if os.path.exists(src):
+            shutil.move(src, dst)
+    shutil.copy("data.txt", "backups/data.txt.old0")
+    shutil.move("extracted.txt", "data.txt")
+

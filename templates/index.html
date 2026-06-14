@@ -11,6 +11,38 @@
         table { width: 100%; border-collapse: collapse; margin-top: 20px; }
         th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
         th { background-color: #f2f2f2; }
+
+        /* Styling for the Upload Button */
+        .upload-btn {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            display: inline-block;
+        }
+
+        /* Spinner Styles (Hidden by default) */
+        .spinner-container {
+            display: none;
+            align-items: center;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .spinner {
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #007bff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
     </style>
 </head>
 <body>
@@ -32,6 +64,18 @@
             <label for="hide4k">Hide 4K</label>
         </div>
     </fieldset>-->
+
+    <!-- Single Button UI: The label acts as the button, hiding the default input look -->
+    <label id="uploadLabel" for="fileInput" class="upload-btn">
+        Upload New Data
+    </label>
+    <input type="file" id="fileInput" onchange="autoUploadFile()" accept=".xml" style="display: none;">
+
+    <!-- Loading Spinner Element -->
+    <div id="loadingSpinner" class="spinner-container">
+        <div class="spinner"></div>
+        <span>Processing data, please wait...</span>
+    </div>
 
     <table id="data-table">
         <thead>
