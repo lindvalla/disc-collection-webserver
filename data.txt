@@ -20,7 +20,7 @@
 133;True;False;False;A Beautiful Mind;
 149;True;False;False;Shrek;
 147;True;False;False;Deep Impact;
-146;True;False;False;Fredsmäklaren;The Peacemaker
+146;True;False;False;FredsmÃ¤klaren;The Peacemaker
 1;True;False;False;The Matrix;
 32;True;False;False;Entrapment;
 245;True;False;False;Trainspotting;
@@ -30,12 +30,12 @@
 162;True;False;False;The Scorpion King;
 164;True;False;False;40 Days and 40 Nights;
 354;True;False;False;The Guru;
-258;True;False;False;De 12 Apornas Armé;Twelve Monkeys
+258;True;False;False;De 12 Apornas ArmÃ©;Twelve Monkeys
 216;True;False;False;Seven Samurai;Shichinin no samurai
 215;True;False;False;High and Low;Tengoku to jigoku
 217;True;False;False;Yojimbo;
 213;True;False;False;The Hidden Fortress;Kakushi toride no san akunin
-212;True;False;False;Sanjuro;Tsubaki Sanjûrô
+212;True;False;False;Sanjuro;Tsubaki SanjÃ»rÃ´
 214;True;False;False;Red Beard;Akahige
 330;True;False;False;Red Dwarf I;
 333;True;False;False;Red Dwarf II;
@@ -65,7 +65,7 @@
 209;True;False;False;Terminator 3 - Rise of The Machines;Terminator 3: Rise of the Machines
 221;True;False;False;American Pie: The Wedding;
 242;True;False;False;Das Boot;
-456;True;False;False;Hämnarens Resa;Boksuneun naui geot
+456;True;False;False;HÃ¤mnarens Resa;Boksuneun naui geot
 319;True;False;False;Taxi Driver;
 276;True;False;False;S.W.A.T.;
 321;True;False;False;Scarface;
@@ -84,7 +84,7 @@
 372;True;False;False;Layer Cake;
 345;True;False;False;Hitch;
 344;True;False;False;Tolken;The Interpreter
-370;True;False;False;Styrka 10 från Navarone;Force 10 from Navarone
+370;True;False;False;Styrka 10 frÃ¥n Navarone;Force 10 from Navarone
 388;True;False;False;Doom;
 450;True;False;False;Serenity;
 403;True;False;False;Jarhead;
@@ -115,14 +115,14 @@
 256;True;False;False;Paycheck;
 282;True;False;False;Shrek 2;
 297;True;False;False;The Terminal;
-325;True;False;False;Lemony Snickets Berättelse om Syskonen Baudelaires Olycksaliga Li;Lemony Snicket's A Series of Unfortunate Events
+325;True;False;False;Lemony Snickets BerÃ¤ttelse om Syskonen Baudelaires Olycksaliga Li;Lemony Snicket's A Series of Unfortunate Events
 430;True;False;False;Final Fantasy VII: Advent Children;
 433;True;False;False;Underworld: Evolution;
 436;True;False;False;Ultraviolet;
 440;True;False;False;Da Vinci Koden;The Da Vinci Code
 933;False;True;False;Resident Evil: Apocalypse;
 454;True;False;False;Pakten;The Covenant
-478;True;False;False;Jakten På Lycka;The Pursuit of Happyness
+478;True;False;False;Jakten PÃ¥ Lycka;The Pursuit of Happyness
 462;True;False;False;Ghost Rider;
 468;True;False;False;Spider-Man 3;
 477;True;False;False;Resident Evil: Extinction;
@@ -132,7 +132,7 @@
 515;True;False;False;The International;
 513;True;False;False;Underworld: Rise of the Lycans;
 901;False;True;False;Underworld - Rise of the Lycans;
-521;False;True;False;Änglar och Demoner;Angels & Demons
+521;False;True;False;Ã„nglar och Demoner;Angels & Demons
 524;True;False;False;Crank 2: High Voltage;
 533;False;True;False;2012;
 559;True;False;False;Defendor;
@@ -143,7 +143,7 @@
 549;False;True;False;The Green Hornet;
 561;False;True;False;Priest;
 905;False;True;False;Underworld Awakening;
-599;False;True;False;MIB³: Men in Black 3;Men In Black 3
+599;False;True;False;MIBÂ³: Men in Black 3;Men In Black 3
 588;True;False;False;Underworld - Awakening;
 154;False;True;False;Total Recall;
 612;False;True;False;Resident Evil: Retribution;
@@ -242,9 +242,9 @@
 867;False;True;False;Everything Everywhere All at Once;
 705;False;True;False;The Hateful Eight;
 568;False;True;False;Agnosia;
-155;True;False;False;Gräsklippar Mannen;The Lawnmower Man
+155;True;False;False;GrÃ¤sklippar Mannen;The Lawnmower Man
 218;True;False;False;Dune;
-98;True;False;False;Eldfödd;Firestarter
+98;True;False;False;EldfÃ¶dd;Firestarter
 22;True;False;False;Arlington Road;
 33;True;False;False;Will Hunting;Good Will Hunting
 2;True;False;False;The Talented Mr. Ripley;
@@ -322,33 +322,33 @@
 610;False;True;False;Love Is Not A Crime;Loosies
 630;True;False;False;Le Chef;Comme un chef
 907;True;False;False;Highlander 2;
-168;True;False;False;Hjältarna från Telemarken;The Heroes of Telemark
+168;True;False;False;HjÃ¤ltarna frÃ¥n Telemarken;The Heroes of Telemark
 128;True;False;False;Liftaren;The Hitcher
-145;True;False;False;Röda Draken;Manhunter
+145;True;False;False;RÃ¶da Draken;Manhunter
 906;True;False;False;Highlander;
-129;True;False;False;De hänsynslösa;Reservoir Dogs
-177;True;False;False;Köplust;Needful Things
-179;True;False;False;Örnen har landat;The Eagle Has Landed
+129;True;False;False;De hÃ¤nsynslÃ¶sa;Reservoir Dogs
+177;True;False;False;KÃ¶plust;Needful Things
+179;True;False;False;Ã–rnen har landat;The Eagle Has Landed
 316;True;False;False;Shiri - Terrorns ansikte;Shiri
 210;True;False;False;Terminator 2: Judgment Day;
 308;True;False;False;Romper Stomper;
-353;True;False;False;Visitörerna;Les visiteurs
-307;True;False;False;Livet é python;And Now for Something Completely Different
+353;True;False;False;VisitÃ¶rerna;Les visiteurs
+307;True;False;False;Livet Ã© python;And Now for Something Completely Different
 305;True;False;False;Massacre In Rome;
 467;True;False;False;Wolfhound;Volkodav iz roda serykh psov
 504;False;True;False;Mutant Chronicles;
 573;False;True;False;Outlander;
 65;True;False;False;Proof Of Life;
-10;True;False;False;Den gröna milen;The Green Mile
+10;True;False;False;Den grÃ¶na milen;The Green Mile
 390;True;False;False;THX 1138;
 118;True;False;False;Pelikanfallet;The Pelican Brief
 117;True;False;False;Outbreak;
 274;True;False;False;Robin Hood: Prince of Thieves;
 23;True;False;False;Mars Attacks!;
-26;True;False;False;Sammansvärjningen;Conspiracy Theory
+26;True;False;False;SammansvÃ¤rjningen;Conspiracy Theory
 107;True;False;False;U.S. Marshals;
-108;True;False;False;Hämnarna;The Avengers
-17;True;False;False;Förhandlaren;The Negotiator
+108;True;False;False;HÃ¤mnarna;The Avengers
+17;True;False;False;FÃ¶rhandlaren;The Negotiator
 35;True;False;False;Du Har Mail;You've Got Mail
 123;True;False;False;Wild Wild West;
 6;True;False;False;Three Kings;
@@ -365,12 +365,12 @@
 140;True;False;False;Queen of the Damned;
 122;True;False;False;The Time Machine;
 85;True;False;False;Harry Potter och De Vises Sten;Harry Potter and the Philosopher's Stone
-253;True;False;False;Two Weeks Notice - Kärlek på jobbet;Two Weeks Notice
+253;True;False;False;Two Weeks Notice - KÃ¤rlek pÃ¥ jobbet;Two Weeks Notice
 181;True;False;False;Harry Potter och hemligheternas kammare;Harry Potter and the Chamber of Secrets
 231;True;False;False;Matchstick Men;
 250;True;False;False;Mystic River;
 249;True;False;False;Den Siste Samurajen;The Last Samurai
-269;True;False;False;Harry Potter och Fången från Azkaban;Harry Potter and the Prisoner of Azkaban
+269;True;False;False;Harry Potter och FÃ¥ngen frÃ¥n Azkaban;Harry Potter and the Prisoner of Azkaban
 202;True;False;False;The Matrix Reloaded;
 289;True;False;False;Catwoman;
 224;True;False;False;The Matrix Revolutions;
@@ -383,16 +383,16 @@
 324;True;False;False;Constantine;
 299;True;False;False;Ocean's Twelve;
 63;True;False;False;Poltergeist;
-384;True;False;False;Harry Potter och den Flammande Bägaren;Harry Potter and the Goblet of Fire
+384;True;False;False;Harry Potter och den Flammande BÃ¤garen;Harry Potter and the Goblet of Fire
 399;True;False;False;Kiss Kiss Bang Bang;
 396;True;False;False;Kalle och Chokladfabriken;Charlie and the Chocolate Factory
 64;True;False;False;2010: The Year We Make Contact;2010
-208;True;False;False;Örnnästet;Where Eagles Dare
+208;True;False;False;Ã–rnnÃ¤stet;Where Eagles Dare
 374;True;False;False;The Island;
 363;True;False;False;Batman Begins;
 446;True;False;False;Lady in the Water;
 406;True;False;False;Syriana;
-407;True;False;False;V för Vendetta;V for Vendetta
+407;True;False;False;V fÃ¶r Vendetta;V for Vendetta
 441;True;False;False;Blade Runner;
 59;True;False;False;Shooting Fish;
 310;True;False;False;Troja;
@@ -403,11 +403,11 @@
 200;True;False;False;Hero;Ying xiong
 284;True;False;False;Eternal Sunshine of the Spotless Mind;
 259;True;False;False;Lost in Translation;
-318;True;False;False;Fantomen på operan;The Phantom of the Opera
+318;True;False;False;Fantomen pÃ¥ operan;The Phantom of the Opera
 298;True;False;False;Flying Daggers;Shi Mian Mai Fu
 241;True;False;False;Spring Lola;
 382;True;False;False;The Others;
-320;True;False;False;Flykten från New York;Escape from New York
+320;True;False;False;Flykten frÃ¥n New York;Escape from New York
 347;True;False;False;Battle Royale;Batoru rowaiaru
 291;True;False;False;Cube 2: Hybercube;
 317;True;False;False;Guds stad;Cidade de Deus
@@ -418,7 +418,7 @@
 459;True;False;False;Blood Diamond;
 469;True;False;False;Harry Potter och Fenixorden;Harry Potter and the Order of the Phoenix
 498;True;False;False;The Dark Knight;
-898;True;False;False;Studio 60 på Sunset Strip: Hela serien;Studio 60 on the Sunset Strip: The Complete Series
+898;True;False;False;Studio 60 pÃ¥ Sunset Strip: Hela serien;Studio 60 on the Sunset Strip: The Complete Series
 466;True;False;False;Ocean's Thirteen;
 499;False;True;False;Blade Runner;
 486;True;False;False;Beowulf;
@@ -426,7 +426,7 @@
 602;True;False;False;Franklyn;
 475;True;False;False;This is England;
 519;True;False;False;Thick as Thieves;
-505;True;False;False;Låt den rätte komma in;
+505;True;False;False;LÃ¥t den rÃ¤tte komma in;
 539;True;False;False;The Men Who Stare at Goats;
 694;True;False;False;Thirst;Bakjwi
 386;True;False;False;Primer;
@@ -447,14 +447,14 @@
 812;False;True;False;Jumanji: The Next Level;
 818;False;True;False;Parasit;Gisaengchung
 819;False;True;False;Bloodshot;
-40;True;False;False;Charlies Änglar;Charlie's Angels
+40;True;False;False;Charlies Ã„nglar;Charlie's Angels
 254;True;False;False;Snatch;
 41;True;False;False;Vertical Limit;
 229;True;False;False;Legenden om Bagger Vance;The Legend of Bagger Vance
-73;True;False;False;Vem är Forrester?;Finding Forrester
+73;True;False;False;Vem Ã¤r Forrester?;Finding Forrester
 71;True;False;False;Blues Brothers / Blues Brothers 2000;
 112;True;False;False;Jurassic Park / The Lost World;
-83;True;False;False;Mumien Återkomsten;The Mummy Returns
+83;True;False;False;Mumien Ã…terkomsten;The Mummy Returns
 74;True;False;False;Memento;
 87;True;False;False;En riddares historia;A Knight's Tale
 75;True;False;False;Final Fantasy;Final Fantasy: The Spirits Within
@@ -464,7 +464,7 @@
 158;True;False;False;Monty Python and the Holy Grail;
 94;True;False;False;Spy Game;
 132;True;False;False;The 51st State;
-346;True;False;False;Sjöfartsnytt;The Shipping News
+346;True;False;False;SjÃ¶fartsnytt;The Shipping News
 150;True;False;False;Panic Room;
 230;True;False;False;We Were Soldiers;
 135;True;False;False;Spider-Man;
@@ -491,12 +491,12 @@
 455;True;False;False;Children of Men;
 458;True;False;False;Den innersta kretsen;The Good Shepherd
 480;True;False;False;Illusionisten;The Illusionist
-550;True;False;False;Män som hatar Kvinnor;
+550;True;False;False;MÃ¤n som hatar Kvinnor;
 518;True;False;False;Knowing;
 514;True;False;False;Push;
 509;True;False;False;Transporter 3;
 551;True;False;False;Flickan som lekte med elden;
-552;True;False;False;Luftslottet som Sprängdes;
+552;True;False;False;Luftslottet som SprÃ¤ngdes;
 616;False;True;False;The Twilight Saga: Eclipse;
 892;False;True;False;Kick-Ass;
 557;True;False;False;Limitless;
@@ -516,7 +516,7 @@
 654;True;False;False;Snabba Cash Trilogin;
 666;False;True;False;The Hunger Games: Mockingjay: Part I;
 688;False;True;False;The Divergent Series: Insurgent;
-669;True;False;False;100 steg från Bombay till Paris;The Hundred-foot Journey
+669;True;False;False;100 steg frÃ¥n Bombay till Paris;The Hundred-foot Journey
 682;True;False;False;Ettor & Nollor;
 702;False;True;False;The Hunger Games: Mockingjay: Part 2;The Hunger Games: Mockingjay - Part 2
 708;False;True;False;The Divergent Series: Allegiant;The Divergent series: Allegiant
@@ -531,7 +531,7 @@
 397;True;False;False;The Perfect Score;
 313;True;False;False;Mean Girls;
 391;True;False;False;Team America: World Police;
-360;True;False;False;Världarnas Krig;War of the Worlds
+360;True;False;False;VÃ¤rldarnas Krig;War of the Worlds
 405;True;False;False;Aeon Flux;Aeon Flux The Movie
 439;True;False;False;M:i:III;Mission: Impossible III
 460;True;False;False;Shooter;
@@ -555,7 +555,7 @@
 523;False;True;False;Transformers: Revenge of the Fallen;
 526;False;True;False;G.I. Joe: The Rise of Cobra;
 279;True;True;False;Iron Man 2;
-473;True;False;False;München;Munich
+473;True;False;False;MÃ¼nchen;Munich
 471;True;False;False;Transformers;
 507;True;False;False;Tropic Thunder;
 576;True;True;False;Megamind;
@@ -569,7 +569,7 @@
 899;False;True;False;Livet efter dig;Me Before You
 741;False;True;False;The Space Between Us;
 738;False;True;False;The Night Manager;
-729;False;True;False;Sju minuter över midnatt;A Monster Calls
+729;False;True;False;Sju minuter Ã¶ver midnatt;A Monster Calls
 773;False;True;False;Tomb Raider;
 793;False;True;False;King of Thieves;
 795;False;True;False;Iron Sky: The Coming Race;
@@ -597,6 +597,7 @@
 872;False;True;False;Dungeons & Dragons: Honor Among Thieves;
 870;False;True;False;Ant-Man and the Wasp: Quantumania;
 873;False;True;False;Guardians of the Galaxy: Vol. 3;
+940;False;True;False;Asteroid City;
 923;False;True;False;The Firm;
 883;False;True;True;Dune: Part Two;
 880;False;True;True;The Abyss;
@@ -638,6 +639,7 @@
 878;False;True;True;Deadpool;
 720;False;True;False;Star Trek: Beyond;
 724;False;True;False;Morgan;
+941;False;True;False;Speed: Dual Action Pack;
 827;False;True;False;Die Hard Legacy Collection;
 728;False;True;False;Fantastic Beasts and Where to Find Them;
 737;False;True;False;Assassin's Creed;
@@ -678,11 +680,11 @@
 877;True;True;True;Top Gun;
 236;True;False;False;The Calibrator;
 408;True;False;False;Edmond;
-435;True;False;False;Führerns elit;NaPolA
+435;True;False;False;FÃ¼hrerns elit;NaPolA
 442;True;False;False;Lady Vengeance;Chinjeolhan geumjassi
 379;True;False;False;Akira;
 726;False;True;False;The Girl With All the Gifts;
-152;True;False;False;Kanonerna på Navarone;The Guns of Navarone
+152;True;False;False;Kanonerna pÃ¥ Navarone;The Guns of Navarone
 5;True;False;False;Gattaca;
 9;True;False;False;Vampires, John Carpenter's;
 46;True;False;False;Fortress 2: Re-Entry;
@@ -693,7 +695,7 @@
 12;True;False;False;Men in Black;
 47;True;False;False;Gladiator;
 27;True;False;False;Shakespeare in Love;
-21;True;False;False;Möt Joe Black;Meet Joe Black
+21;True;False;False;MÃ¶t Joe Black;Meet Joe Black
 37;True;False;False;Mercury Rising;
 619;False;True;False;Hansel & Gretel: Witch Hunters;
 632;False;True;False;The Mortal Instruments - Stad av skuggor;The Mortal Instruments - Ciry of Bones
@@ -715,10 +717,10 @@
 187;True;False;False;District 9;
 362;True;False;False;24: Season 8: The Final Season;24: Season 8: The Complete Final Season
 302;True;False;False;Fargo;
-3;True;False;False;Sjätte sinnet;The Sixth Sense
+3;True;False;False;SjÃ¤tte sinnet;The Sixth Sense
 45;True;False;False;The Cell;
 66;True;False;False;X-Men;
-58;True;False;False;Djävulen och Jag;Bedazzled
+58;True;False;False;DjÃ¤vulen och Jag;Bedazzled
 116;True;False;False;The Terminator;
 193;True;False;False;Independence Day;
 95;True;False;False;The Abyss;
@@ -726,11 +728,11 @@
 62;True;False;False;Planet of the Apes Box Set;
 188;True;False;False;Titanic;
 191;True;False;False;Knockaround Guys;
-61;True;False;False;Star Wars: Episod I: Det Mörka Hotet;Star Wars: Episode I: The Phantom Menace
+61;True;False;False;Star Wars: Episod I: Det MÃ¶rka Hotet;Star Wars: Episode I: The Phantom Menace
 343;True;False;False;Mod Squad, The;
 367;True;False;False;Lida;Misery
 190;True;False;False;Hackers;
-194;True;False;False;Det Stora Blå;The Big Blue
+194;True;False;False;Det Stora BlÃ¥;The Big Blue
 96;True;False;False;Apornas Planet;Planet of the Apes
 119;True;False;False;Rush Hour 2;
 97;True;False;False;Moulin Rouge!;
@@ -743,7 +745,7 @@
 134;True;False;False;Blade II;
 142;True;False;False;Star Wars: Episod II: Klonerna Anfaller;Star Wars: Episode II: Attack of the Clones
 144;True;False;False;Minority Report;
-141;True;False;False;Sagan om ringen: Härskarringen;The Lord of the Rings: The Fellowship of the Ring
+141;True;False;False;Sagan om ringen: HÃ¤rskarringen;The Lord of the Rings: The Fellowship of the Ring
 163;True;False;False;Austin Powers in Goldmember;
 204;True;False;False;En fisk som heter Wanda;A Fish Called Wanda
 172;True;False;False;Drakarnas Rike;Reign of Fire
@@ -751,7 +753,7 @@
 173;True;False;False;One Hour Photo;
 175;True;False;False;Road to Perdition;
 170;True;False;False;24: Season One;
-339;True;False;False;Kagemusha - Spökgeneralen;Kagemusha
+339;True;False;False;Kagemusha - SpÃ¶kgeneralen;Kagemusha
 182;True;False;False;Die Another Day;
 392;True;False;False;Transporter;The Transporter
 265;True;False;False;Phone Booth;
@@ -759,16 +761,16 @@
 206;True;False;False;X-Men 2;
 356;True;False;False;Maid in Manhattan;
 255;True;False;False;Uppdraget;The Recruit
-207;True;False;False;Sagan om de två tornen: Härskarringen;The Lord of the Rings: The Two Towers
+207;True;False;False;Sagan om de tvÃ¥ tornen: HÃ¤rskarringen;The Lord of the Rings: The Two Towers
 304;True;False;False;Legally Blonde 2;Legally Blonde 2: Red White & Blonde
-220;True;False;False;Bruce den allsmäktige;Bruce Almighty
+220;True;False;False;Bruce den allsmÃ¤ktige;Bruce Almighty
 248;True;False;False;De Utvalda;Runaway Jury
 227;True;False;False;24: Season Two;
 267;True;False;False;Day After Tomorrow;The Day After Tomorrow
 261;True;False;False;Star Wars Trilogy;
 351;True;False;False;The Girl Next Door;
 270;True;False;False;I, Robot;
-272;True;False;False;Sagan om konungens återkomst: Härskarringen;The Lord of the Rings: The Return of the King
+272;True;False;False;Sagan om konungens Ã¥terkomst: HÃ¤rskarringen;The Lord of the Rings: The Return of the King
 285;True;False;False;Hellboy;
 296;True;False;False;24: Season Three;
 328;True;False;False;Blade: Trinity;
@@ -776,39 +778,39 @@
 323;True;False;False;Elektra;
 341;True;False;False;Be Cool;
 349;True;False;False;Sin City;
-352;True;False;False;Star Wars: Episod III: Mörkrets Hämnd;Star Wars: Episode III: Revenge of the Sith
+352;True;False;False;Star Wars: Episod III: MÃ¶rkrets HÃ¤mnd;Star Wars: Episode III: Revenge of the Sith
 348;True;False;False;Kingdom of Heaven;
 383;True;False;False;24: Season Four;
 393;True;False;False;Transporter 2;
-380;True;False;False;Nattens väktare;Nochnoi dozor
+380;True;False;False;Nattens vÃ¤ktare;Nochnoi dozor
 434;True;False;False;X-Men 3: The Last Stand;X-Men: The Last Stand
-409;True;False;False;Dr. No - Agent 007 med rätt att döda;Dr. No
+409;True;False;False;Dr. No - Agent 007 med rÃ¤tt att dÃ¶da;Dr. No
 411;True;False;False;Goldfinger;
-412;True;False;False;Åskbollen;Thunderball
-414;True;False;False;I hennes majestäts hemliga tjänst;On Her Majesty's Secret Service
-410;True;False;False;Agent 007 ser rött;From Russia With Love
-420;True;False;False;Ur dödlig synvinkel;For Your Eyes Only
-416;True;False;False;Leva och låta dö;Live and Let Die
-418;True;False;False;Älskade spion;The Spy Who Loved Me
-424;True;False;False;Tid för hämnd;Licence to Kill
+412;True;False;False;Ã…skbollen;Thunderball
+414;True;False;False;I hennes majestÃ¤ts hemliga tjÃ¤nst;On Her Majesty's Secret Service
+410;True;False;False;Agent 007 ser rÃ¶tt;From Russia With Love
+420;True;False;False;Ur dÃ¶dlig synvinkel;For Your Eyes Only
+416;True;False;False;Leva och lÃ¥ta dÃ¶;Live and Let Die
+418;True;False;False;Ã„lskade spion;The Spy Who Loved Me
+424;True;False;False;Tid fÃ¶r hÃ¤mnd;Licence to Kill
 417;True;False;False;Mannen med den gyllene pistolen;The Man With the Golden Gun
 419;True;False;False;Moonraker;
 415;True;False;False;Diamantfeber;Diamonds Are Forever
 425;True;False;False;Goldeneye;
 426;True;False;False;Tomorrow Never Dies;
-413;True;False;False;Man lever bara två gånger;You Only Live Twice
+413;True;False;False;Man lever bara tvÃ¥ gÃ¥nger;You Only Live Twice
 423;True;False;False;Iskallt uppdrag;The Living Daylights
 421;True;False;False;Octopussy;
-427;True;False;False;Världen räcker inte till;The World Is Not Enough
-422;True;False;False;Levande måltavla;A View to a Kill
+427;True;False;False;VÃ¤rlden rÃ¤cker inte till;The World Is Not Enough
+422;True;False;False;Levande mÃ¥ltavla;A View to a Kill
 428;True;False;False;Die Another Day;
-429;True;False;False;James Bond - 40 Disc Attaché Case;
+429;True;False;False;James Bond - 40 Disc AttachÃ© Case;
 444;True;False;False;24: Season Five DVD Collection;24: Season 5
-445;True;False;False;Hotet Inifrån;The Sentinel
+445;True;False;False;Hotet InifrÃ¥n;The Sentinel
 601;True;True;False;Abraham Lincoln: Vampire hunter;
 490;False;True;False;Arn - Tempelriddaren;
 594;False;True;False;The Fountain;
-495;False;True;False;Arn - Riket vid vägens slut;
+495;False;True;False;Arn - Riket vid vÃ¤gens slut;
 502;False;True;False;Max Payne;
 547;False;True;False;Quantum of Solace;
 593;False;True;False;Det Femte Elementet;the fifth element
@@ -834,9 +836,9 @@
 109;True;False;False;Dark City;
 167;True;False;False;Cube;
 111;True;False;False;U-571;
-53;True;False;False;Jakten På Röd Oktober;The Hunt For Red October
+53;True;False;False;Jakten PÃ¥ RÃ¶d Oktober;The Hunt For Red October
 327;True;False;False;The War of the Worlds;
-156;True;False;False;Flykten Från Alcatraz;
+156;True;False;False;Flykten FrÃ¥n Alcatraz;
 366;True;False;False;The Godfather DVD Collection;
 115;True;False;False;Helgonet;The Saint
 92;True;False;False;Mission: Impossible;
@@ -863,37 +865,37 @@
 171;True;False;False;Signs;
 287;True;False;False;Resident Evil;
 199;True;False;False;25th Hour;
-222;True;False;False;Pirates of the Caribbean: Svarta pärlans förbannelse;Pirates of the Caribbean: The Curse of the Black Pearl
+222;True;False;False;Pirates of the Caribbean: Svarta pÃ¤rlans fÃ¶rbannelse;Pirates of the Caribbean: The Curse of the Black Pearl
 275;True;False;False;Hitta Nemo;Finding Nemo
 290;True;False;False;Hidalgo;
 281;True;False;False;The Village;
 300;True;False;False;National Treasure;
-293;True;False;False;Superhjältarna;The Incredibles
+293;True;False;False;SuperhjÃ¤ltarna;The Incredibles
 401;True;False;False;Life Aquatic with Steve Zissou;The Life Aquatic with Steve Zissou
 79;True;False;False;100 Girls;
 76;True;False;False;Austin Powers: International Man of Mystery;
 30;True;False;False;Austin Powers: The Spy Who Shagged Me;
 365;True;False;False;Liftarens Guide Till Galaxen;The Hitchhiker's Guide to the Galaxy
-443;True;False;False;Pirates of the Caribbean: Död mans kista;Pirates of the Caribbean: Dead Man's Chest
-483;True;False;False;Råttatouille;Ratatouille
-895;False;True;False;Pirates of the Caribbean: Svarta Pärlans förbannelse;Pirates of the Caribbean: The Curse of the Black Pearl
-896;False;True;False;Pirates of the Caribbean: Död mans kista;Pirates of the Caribbean: Dead Man's Chest
+443;True;False;False;Pirates of the Caribbean: DÃ¶d mans kista;Pirates of the Caribbean: Dead Man's Chest
+483;True;False;False;RÃ¥ttatouille;Ratatouille
+895;False;True;False;Pirates of the Caribbean: Svarta PÃ¤rlans fÃ¶rbannelse;Pirates of the Caribbean: The Curse of the Black Pearl
+896;False;True;False;Pirates of the Caribbean: DÃ¶d mans kista;Pirates of the Caribbean: Dead Man's Chest
 894;False;True;False;The Rock;
-908;False;True;False;Pirates of the Caribbean: Vid Världens Ände;Pirates of the Caribbean: At World's End
+908;False;True;False;Pirates of the Caribbean: Vid VÃ¤rldens Ã„nde;Pirates of the Caribbean: At World's End
 488;True;False;False;National Treasure 2: Hemligheternas Bok;National Treasure: Book of Secrets
 532;False;True;False;Surrogates;
 555;True;True;False;TRON: Legacy;
 558;True;False;False;I Am Number Four;
-629;False;True;False;Pirates of the Caribbean: I Främmande Farvatten;Pirates of the Caribbean: On Stranger Tides
+629;False;True;False;Pirates of the Caribbean: I FrÃ¤mmande Farvatten;Pirates of the Caribbean: On Stranger Tides
 595;False;True;False;Marvel's The Avengers 3D;The Avengers
 584;False;True;False;Hamilton: I Nationens Intresse;
 824;False;True;False;Modig;Brave
-611;False;True;False;Hamilton 2: Men inte om det gäller din dotter;
+611;False;True;False;Hamilton 2: Men inte om det gÃ¤ller din dotter;
 641;False;True;False;Iron Man 3;
 628;False;True;False;The Lone Ranger;
 637;False;True;False;Thor: The Dark World;
 636;False;True;False;Ender's Game;
-643;False;True;False;Hundraåringen som klev ut genom fönstret och försvann;
+643;False;True;False;HundraÃ¥ringen som klev ut genom fÃ¶nstret och fÃ¶rsvann;
 647;False;True;False;Maleficent;
 644;False;True;False;Captain America: The Winter Soldier;
 660;False;True;False;Guardians Of The Galaxy;
@@ -914,7 +916,7 @@
 770;False;True;False;Black Panther;
 786;False;True;False;Avengers: Infinity War;
 778;False;True;False;Solo: A Star Wars Story;
-783;False;True;False;Superhjältarna 2;Incredibles 2
+783;False;True;False;SuperhjÃ¤ltarna 2;Incredibles 2
 780;False;True;False;Ant-Man and the Wasp;
 796;False;True;False;Glass;
 825;False;True;False;Mary Poppins Returns;
@@ -930,8 +932,10 @@
 842;False;True;False;Free Guy;
 902;False;True;False;Shang-Chi and the Legend of the Ten Rings;
 852;False;True;False;The King's Man;
+942;False;True;False;Speed;
 764;False;True;False;Mad Max Beyond Thunderdome;
 936;False;True;False;The Matrix Reloaded;
+943;False;True;False;Speed 2: Cruise Control;
 937;False;True;False;The Matrix;
 765;False;True;False;Mad Max: Fury Road;
 766;False;True;False;The Road Warrior;Mad Max 2
