@@ -17,12 +17,32 @@ SOURCES = [ f'<img src="/static/{fname}"/>' for fname in IMAGE_FILES ]
 def load_data(filepath="data.txt"):
     data = []
     try:
-#        with open(filepath, 'r', encoding='utf-8') as f:
-        with open(filepath, 'r', encoding='iso-8859-1') as f:
+        with open(filepath, 'r', encoding='utf-8') as f:
+#        with open(filepath, 'r', encoding='iso-8859-1') as f:
             for line in f:
                 if line.strip():  # Only process non-empty lines
                     #data.append(line.strip().split(';'))
                     a = line.strip().split(';')
+                    #print("a=", a)
+                    b = a[1:4]
+                    #print("b=", b)
+                    s = ' '.join([ SOURCES[idx] for idx,val in enumerate(b) if val.lower()=='true' ]).strip()
+                    #print("s=", s)
+                    c = [ a[0], s ]
+                    c.extend(a[4:])
+                    #print("c=", c)
+                    data.append(c)
+                    #break
+    except FileNotFoundError:
+        print(f"Warning: data.txt not found at {filepath}. Please create it.")
+    try:
+        filepath = 'wanted.txt'
+        with open(filepath, 'r', encoding='iso-8859-1') as f:
+            for line in f:
+                if line.strip():  # Only process non-empty lines
+                    #data.append(line.strip().split(';'))
+                    #a = line.strip().split(';')
+                    a = ['wanted', "false", "true", "true", line.strip(), '' ]
                     #print("a=", a)
                     b = a[1:4]
                     #print("b=", b)
